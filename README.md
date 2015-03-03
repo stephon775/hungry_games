@@ -2,8 +2,8 @@
 base on https://github.com/Splizard/hungry_games , we fix some lua error.
 
 #License:
-=========
 https://forum.minetest.net/viewtopic.php?id=4582
+
 hungry_games, glass_arena, spawning, random chests and dead_drop mods:
 License: GPLv2/later
 Textures: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
